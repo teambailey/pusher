@@ -1,0 +1,11 @@
+.idea
+.DS_Store
+*.scssc
+.sass-cache
+**/node_modules
+node_modules
+build
+prod
+# Remove "src" if cloned
+src
+npm-debug.log
